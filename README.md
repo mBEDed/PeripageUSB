@@ -100,6 +100,11 @@ Connect the PeriPage A6 printer to the USB Host Shield's USB port using a USB ca
 
 ---
 
+## If the library was useful to you
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/userHarpreet)
+
+---
+
 ## References
 
 - USB Host Shield Library 2.0: [felis/USB_Host_Shield_2.0](https://github.com/felis/USB_Host_Shield_2.0)
