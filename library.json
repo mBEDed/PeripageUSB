@@ -1,0 +1,37 @@
+{
+  "name": "Peripage USB",
+  "version": "0.0.1",
+  "authors": {
+    "name": "mBEDed μSystems",
+    "email": "mbededsystems@outlook.com"
+  },
+  "homepage": "http://mBEDed.Systems",
+  "license": "MIT",
+  "description": "A Library to interface Peripage A6 Printer with Arduino over USB Host shield.",
+  "keywords": "arduino, USB, host, peripage, A6, thermal, printer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mBEDed/peripageUSB.git"
+  },
+  "build": {
+    "includeDir": "include"
+  },
+  "export": {
+    "include": [
+      "include",
+      "examples",
+      "LICENSE",
+      "README.md"
+    ],
+    "exclude": [
+      "**/__vm",
+      "**/.vs",
+      "**/*.filters",
+      "**/*.log",
+      "**/*.tmp"
+    ]
+  },
+  "platforms": "*",
+  "frameworks": "*"
+}
+
